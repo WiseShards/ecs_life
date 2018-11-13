@@ -1,0 +1,2 @@
+# ecs_life
+Project source code for https://www.wiseshards.com/blog/unity-ecs-entity-component-system-and-job-system/. In this blog post we get our hands on Unity ECS (Entity Component System), Job System, and implement Conway's Game of Life with three different approaches: classic, hybrid and pure ECS. This way you can have a concrete example with a smooth transition from the classic implementation to pure ECS.
